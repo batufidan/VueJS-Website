@@ -51,12 +51,12 @@
           <v-card-text class="white--text pt-0">
             <h3>Contact</h3>
           </v-card-text>
-          <v-card-text class="grey--text"> AAE IdeaPro </v-card-text>
+          <v-card-text class="grey--text"> eGrocery </v-card-text>
           <v-card-text class="grey--text mt-n4">
             216 / C EAST Road
           </v-card-text>
-          <v-card-text class="grey--text mt-n4"> aae.idapro.com </v-card-text>
-          <v-card-text class="grey--text mt-n4"> -B8254552214 </v-card-text>
+          <v-card-text class="grey--text mt-n4"> eGrocery.com </v-card-text>
+          <v-card-text class="grey--text mt-n4"> +1 (000) 000-00-00 </v-card-text>
         </v-col>
       </v-row>
     </v-card>

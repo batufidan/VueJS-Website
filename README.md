@@ -1,5 +1,9 @@
 # egrocery
 
+
+https://user-images.githubusercontent.com/98849270/182131049-65441cdc-f9e8-433b-98bb-25825978e504.mp4
+
+
 ## Project setup
 ```
 npm install

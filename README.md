@@ -24,5 +24,12 @@ npm run build
 npm run lint
 ```
 
+Use this technologies :
+- Vuetify JS and Vue JS
+- Using Javascript | HTML - CSS
+- Card & Div & Button & Image & Toggle & Grid
+- Navbar & Footer & Section
+- Material design icons and Font Awesome icons
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
